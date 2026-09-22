@@ -1,9 +1,0 @@
-{
-  "website_url": "https://judiciary.karnataka.gov.in/causelistSearch.php",
-  "bench": "Bengaluru Bench",
-  "search_by": "Advocate",
-  "advocate_name": "Mahesh Chowdhary",
-  "days_ahead": 1,
-  "no_cases_action": "fail",
-  "prefer_get_details": true
-}
